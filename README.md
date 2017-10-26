@@ -5,3 +5,6 @@
 
 ## useful shortcuts
 [useful shortcuts](./shortcuts.md)
+
+## favourite videos
+[videos](./videos.md)
