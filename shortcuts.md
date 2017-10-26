@@ -18,6 +18,7 @@ alt + →
 ⌘ + L
 ### Switch tab
 ⌘ + alt + →
+
 ⌘ + alt + ←
 ### New Tab
 ⌘ + T
