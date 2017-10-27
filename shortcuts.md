@@ -39,6 +39,13 @@ alt + →
 ### Quit (close all tabs)
 ⌘ + Q
 
+## Slack
+
+### Move up/down conversation
+alt + ↑
+
+alt + ↓
+
 
 ## Lastpass
 
