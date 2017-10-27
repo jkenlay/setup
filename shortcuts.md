@@ -45,3 +45,7 @@ alt + →
 ### Bring up password quicksearch
 ⇧ + ⌘ + L
 
+## GitHub
+
+### Bring up shortcuts list
+When on github page, press ?
