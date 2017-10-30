@@ -16,3 +16,5 @@
 ### ESLint
 ### home brew
 ### chrome youtube: video name thing
+### finish off cron
+### add in set up for fast keys/mouse
