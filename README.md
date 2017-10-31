@@ -20,3 +20,4 @@
 ### add in set up for fast keys/mouse
 ### nightmode
 ### boom2
+### Chome profile - tabs/bookmarks/saved urls/youtube: xxxx etc
