@@ -40,7 +40,10 @@ alt + →
 ⌘ + Q
 ### Clear Terminal
 ⌘ + K
+### Change tab
+⌘ + ←
 
+⌘ + →
 
 ## Slack
 
