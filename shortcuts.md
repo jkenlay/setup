@@ -38,6 +38,9 @@ alt + →
 ⌘ + W
 ### Quit (close all tabs)
 ⌘ + Q
+### Clear Terminal
+⌘ + K
+
 
 ## Slack
 
@@ -46,6 +49,8 @@ alt + ↑
 
 alt + ↓
 
+### Search for conversation
+⌘ + K
 
 ## Lastpass
 
