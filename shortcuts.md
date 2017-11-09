@@ -13,7 +13,8 @@ alt + ←
 alt + →
 ### spotlight search
 ⌘ + space
-
+### mouse gestures
+https://support.apple.com/en-gb/HT204895
 
 ## Chrome
 
